@@ -1,7 +1,6 @@
 
 # Color Sorting Robotic Arm
 
-# Arduino Color Sorting Robotic Arm
 
 A 6DOF Arduino-based robotic arm that autonomously detects and sorts objects by color using real-time sensor input.
 
